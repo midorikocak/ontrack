@@ -48,13 +48,13 @@ The application uses phpunit for unit testing and cypress for e2e tests.
    * Note3
 
 8. ~~REST API. Make it possible to perform all user actions via the API~~, including authentication.
-9. In any case, you should be able to explain how a REST API works and demonstrate that by creating functional tests that use the REST Layer directly. Please be prepared to use REST clients like Postman, cURL, etc. for this purpose.
-10. All actions need to be done client side using AJAX, refreshing the page is not acceptable.
+9. ~~In any case, you should be able to explain how a REST API works and demonstrate that by creating functional tests that use the REST Layer directly. Please be prepared to use REST clients like Postman, cURL, etc. for this purpose.~~
+10. ~~All actions need to be done client side using AJAX, refreshing the page is not acceptable.~~
 11. ~~You will not be marked on graphic design, however, do try to keep it as tidy as possible.~~
-12. Unit and e2e tests are not optional, they are mandatory
+12. ~~Unit and e2e tests are not optional, they are mandatory~~
 13. ~~New users need to **verify** their account by email. Users should not be able to log in until this verification is complete.~~
 14. ~~The login process should include a CAPTCHA field using the Google API.~~
-15. When a user fails to log in three times in a row, his or her account should be blocked automatically, and only admins and managers should be able to unblock it.
+15. ~~When a user fails to log in three times in a row, his or her account should be blocked~~ automatically, and only admins and managers should be able to unblock it.
 16. ~~An admin should be able to invite someone to the application by typing an email address in an input field; the system should then send an invitation message automatically, prompting the user to complete the registration.~~
 17. ~~Users have to be able to upload and change their profile picture.~~
 
